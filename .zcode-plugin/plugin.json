@@ -1,0 +1,8 @@
+{
+  "name": "beginner-pilot",
+  "version": "0.1.0",
+  "description": "Guided mode for coding beginners: the agent narrates every step in plain language while it works, one sentence before each action and a short recap after, keeps a running pilot-notes.md log with the exact commands used, asks for plain-language confirmation before any destructive command, and ends each task with a 3-item recap of what was built, what to try next, and one concept to google.",
+  "author": { "name": "Roman's zcode agent" },
+  "skills": "./skills",
+  "commands": "./commands"
+}

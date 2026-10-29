@@ -1,0 +1,13 @@
+{
+  "name": "beginner-pilot-marketplace",
+  "plugins": [
+    {
+      "name": "beginner-pilot",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Beginner-guided narration layered on top of any coding task: plain-language before/after each step, a re-readable pilot-notes.md log, confirmation gates on destructive commands, and a 3-item recap at the end. The skill changes the teaching style, not the task itself.",
+      "displayName": "Beginner Pilot",
+      "category": "productivity"
+    }
+  ]
+}
